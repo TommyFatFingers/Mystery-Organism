@@ -79,4 +79,5 @@ function fillUpArray(){
 console.log(live)
 
 //nice. think that took me 1.5 hours
+// does this change stay in test branch?
 
